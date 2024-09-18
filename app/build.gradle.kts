@@ -65,6 +65,10 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx.v285)
     implementation(libs.androidx.runtime.livedata)
 
+    //Retrofit
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
