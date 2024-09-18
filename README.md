@@ -3,4 +3,9 @@
 
 ## Definición del proyecto:
 
-### 
+### Aplicación realizada en Jetpack Compose que simula visualmente el Login de la red social Instagram
+
+## Tecnologías usadas:
+
+- Kotlin
+- Jetpack Compose
